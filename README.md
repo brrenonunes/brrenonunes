@@ -14,8 +14,8 @@
   ### Para me conhecer melhor, me siga nas redes abaixo! :)
  
 <div> 
-  <a href="https://www.instagram.com/brrenonunes/?hl=pt-br" target="_blank><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" alt="Instagram"></a>
-  <a href = "mailto:brenonunes843@gmail.com" target="_blank><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" alt="Gmail"></a>
+  <a href="https://www.instagram.com/brrenonunes/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" alt="Instagram"></a>
+  <a href = "mailto:brenonunes843@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/breno-nunes-86a53b134/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Linkedin" alt="Linkedin"></a> 
 
 </div>
