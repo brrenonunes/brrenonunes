@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brrenonunes&layout=compact&langs_count=6&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4518857%2Fpython_icon&psig=AOvVaw0CCsq3eWXQ9MkwknVS3dG1&ust=1713796785945000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOj1h9fE04UDFQAAAAAdAAAAABAE](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png)" title="Python">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" title="Python">
 </div>
  
  <br>
